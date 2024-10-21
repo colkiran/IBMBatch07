@@ -1,0 +1,203 @@
+Python
+------
+
+why python?
+
+dotnet, Java, PHP
+
+
+1. Easy to write code
+
+2. python is an open source
+
+  a. Desktop Application		- TKinter (TK - Tool Kit)
+
+  b. Web Applications			- MVC, Rest API, ORM -> Flask, Django
+
+  c. Mobile				- Kivy
+
+  d. Testing				- Unit Test, Pytest, Selenium, Robo Framework
+
+  e. Automation				- paramiko (networking)
+
+  f. web scrapping			- beautiful soup, request
+
+-----------------------------------------------------------------------------------------
+
+  g. Data Science			
+
+  h. Data Analytics			- numpy, pandas, seaborn, matplotlib
+
+  i. Data Engineering			- Airflow, Spark, Kafka, Mongodb 
+ 
+  i. DL, ML, AI				- 
+
+
+ DL 
+
+ ML
+
+ AI
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+Guido Van Russum
+----------------
+
+
+i = 10			# i is an integer
+
+i = "hello"		# i is a string
+
+i = True		# i is a Boolean
+
+actVal = 10
+
+atVal += 1
+
+
+------------------------------------------------------------------------------
+Flavours of python
+------------------
+
+Cpython		- currently working on
+
+Jython		- python code will be converted to JAVA code
+
+IronPython	- Dotnet libraries
+
+
+Versions of python
+------------------
+2.x   vs    3.x
+---------------
+
+2.x
+---
+print "hello"
+
+
+3.x
+---
+print("hello")
+
+some libraries
+--------------
+lib2to3, six package, python-modernize
+
+python - IDLE  - Integrated Development Environment
+
+PyCharm CE - Opensource - no need of licenses
+
+VS Code CE - free
+
+Eclipse (patch) - Python code
+
+sublime text, Jupyter Notebook, Google colabs
+
+
+Python
+------
+1. SDK 
+2. python shell (interactive environment)
+3. IDLE
+
+
+Two operators that are overloaded by default
+
++  => addition and concatenation
+
+*  => multiplication and to print a display a string n number of times
+
+
+-----------------------------------------------------------
+
+what are the functions inside a module?
+
+dir(module_name)
+
+------------------------------------------------------------
+
+help on a function?
+
+help(function_name)
+
+-----------------------------------------------------------
+
+c:\users\kiran\sample.py
+
+from importlib import reload
+
+
+Python Coding Rules
+-------------------
+#! = Shebang	- used to specify the path of python executables
+
+not mandatory 
+
+-----------------------------------------------------------------
+Comments
+--------
+# - is the only way to create comments in python (single line comment)
+
+strings
+-------
+single line strings are stored in " " or ' '
+
+st = "hello world"
+
+st = 'hello world'
+
+
+multiple line strings are stored in  """  """ or  '''  '''
+
+
+"""
+       	this is the first line
+	this is the second line
+	this is the third line
+"""
+--------------------------------------------------------
+
+'''
+       	this is the first line
+	this is the second line
+	this is the third line
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
