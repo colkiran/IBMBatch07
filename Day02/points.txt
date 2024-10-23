@@ -225,7 +225,6 @@ patterns
 
 
 accept a number and display the no of times each digit is occurring
-
 32409823482
 
 

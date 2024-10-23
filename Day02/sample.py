@@ -19,3 +19,4 @@ x = 10
 # f string or format string used for interpolation
 print(f"The value of x is : {x}")
 
+

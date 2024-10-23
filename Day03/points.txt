@@ -1,0 +1,73 @@
+Data Structures
+---------------
+1. List
+2. Dictionary
+3. Tuple
+4. Set
+
+
+LIST
+----
+Lists are same as arrays
+
+what are arrays?
+
+1. collection of homogenous data
+2. memory allocation is contagious
+
+
+Lists
+-----
+1. its collection heterogenous data
+
+2. memory allocation is not contagious
+
+3. ordered collection
+
+4. they are sub scriptable
+
+5. They are static
+
+6. lists are mutable
+
+7. lists are enclosed in [ ]
+
+
+List manipulation functions
+---------------------------
+
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+
+
+Assignment - 1
+
+use formatting and print the below data
+
+==================================================
+Item                                         Price
+==================================================
+Apples                                        0.40
+Pears                                         0.50
+Cantaloupes                                   1.92
+Dried Apricots (16 oz.)                       8.00
+Prunes (4 lbs.)                              12.00
+==================================================
+
+2. write code to remove all 2's from the list using 'remove' function 
+
+l1 = [1, 2, 1, 2, 2, 2, 2, 1, 1, 1, 1, 1,2, 1, 1,2, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2,2 ,2 ,2,2,2, 2]
+
+
+3. write a code to create an identity matrix and display it (don't use numpy)
+
+
+
+
+
+
+
+
+
+
