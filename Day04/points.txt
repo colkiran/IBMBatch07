@@ -1,0 +1,49 @@
+count, index, copy, sort, reverse
+
+Dictionary
+----------
+1. Associative arrays
+
+2. unordered collection
+
+3. keys are always unique
+
+4. mutable
+
+5. dictionaries are enclosed in { }
+
+
+dictionary is also called as associative array
+----------------------------------------------
+      0    1    2    3    4 
+l = ['a', 'b', 'c', 'd', 'e']
+
+0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e'
+
+d1 = {0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e'}
+
+1. keys are user defined
+
+2. keys are unique
+
+stud = {'id': 's001', 'name': 'jack', 'class': 'VIII', 'school': 'NPS'}
+
+
+class: VIII, school: NPS, id: s001, name: jack  (python 3.6)
+
+
+functions to manipulate dictionaries
+------------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+
+
+
+
+
+
+
+
+
+
