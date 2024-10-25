@@ -1,0 +1,55 @@
+Dictionary Copy function
+
+
+Tuples
+------
+its a immutable list
+
+tuples are enclosed in ()
+
+
+'count', 'index'
+
+
+Set
+---
+1. sets are always unique
+
+2. sets are not sub scriptable (cannot be indexed)
+
+3. sets are mutable
+
+4. they are enclosed in { }
+
+5. they are unordered collection
+
+
+Functions
+---------
+
+lambdas
+-------
+anonymous function with a single expression
+
+a. map
+b. reduce 
+c. filter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
