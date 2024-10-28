@@ -1,0 +1,68 @@
+Lambdas
+-------
+anonymous and a single line function
+
+map, filter and reduce
+
+map has an expression that will be implemented on all arguments passed to it. the result of the expression is the return value
+
+filter also has an expression which returns a true or false, if true then the number is given as output else it will not return the number
+
+Reduce
+------
+from functools import reduce
+
+will convert the list into a single value
+
+
+Comprehensions
+--------------
+iterating through a collection using lambda syntaxes
+1. list
+2. dictionary
+
+
+Pass by value
+-------------
+immutable objects
+
+
+pass by reference
+-----------------
+mutable objects
+
+Scope of a variable
+-------------------
+1. local	- Lexical (within a block)
+
+2. global	
+3. non local
+
+
+Decorators
+----------
+what are decorators?
+Decorators are functions that change the behaviour of another function without changing the original functions code
+
+they are design patterns that can be used to extend the functionality of an object such as class, method or function
+
+if a function takes another function an argument or returns a function as reference then we call it as HOF Higher Order Function
+
+---------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
