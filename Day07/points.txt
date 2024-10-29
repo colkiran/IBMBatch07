@@ -1,0 +1,136 @@
+Function that takes arguments and print those arguments
+
+0, 1, 2, 3, 4.....
+
+OOPS
+----
+what is oops?
+
+why do we need oops?
+
+------------------------------------------------
+1. inheritance
+2. polymorphism
+3. abstraction
+4. encapsulation
+
+
+
+Bank
+----
+late 90's
+---------
+
+class withdraw
+
+   1. self cheque
+   2. DD
+
+
+2003-2004
+---------
+
+withdraw
+
+Debit Card - authenticate (card is correct, pin), balance, withdraw 
+
+
+class DebitCard(withdraw):
+
+
+2007-2008
+----------
+online banking - 
+
+class OnlieBanking(Debitcard):
+
+
+
+2010 - 2011 
+-----------
+UPI(onlinebanking)
+
+
+
+2016
+----
+cheque - PAN
+DD     - PAN
+
+--------------------------------------------------
+
+polymorphism
+------------
+function behaviour changes based on the arguments passed
+--------------------------------------------------------
+
+ATM - Debit Card
+
+
+HDFC
+----
+1. Shopping card   - 40 k / day		
+2. Gold Card       - 1 lakh / day
+3. Platinum Card   - 2.5 lakh / day
+
+-------------------------------------------------------
+every method inside the class should have self as arg
+
+
+self will have the name of the object that called the method
+
+
+def get_detials(self = ply1):
+    print(self.name)    ply1.name
+    print(self.age)     ply1.age
+
+
+ply1.get_detials()
+
+
+Every object that we create is associated with a dictionary called
+   __dict__ = {instance variables}
+
+
+ply1
+----
+__dict__ = {'name': 'Sachin', 'age': 32}
+
+
+ply2
+----
+__dict__ = {'name': 'Rahul', 'age': 29}
+
+
+Class Attribute
+---------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
